@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="131" height="36" viewBox="0 0 131 36">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-size: 16.667px;
+        font-family: Castellar;
+      }
+
+      .cls-1 {
+        fill: #020202;
+      }
+
+      .cls-2 {
+        opacity: 0.05;
+        fill: #f8fba8;
+      }
+    </style>
+  </defs>
+  <image x="66" y="7" width="74" height="20" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEoAAAAUCAYAAAAqVKv2AAABSUlEQVRYhe2WMUvDQBiG30stirgkCm4iyZIMTtHVJdnb/qGKm7/BX+FuMjgKDk4moOjkeuckiKQpB1c822ijSaC9uwcOwhEufA/f9+YQDsb7ZVlCtUWzpEezZBstsQFg0tZhq4TtRwWAdy6Nw/KUALAAELF47T0AfQBc6AGAIyeIL6vK4C9vqShqHtuPuLFC2v6UnhmAV5ant6ILD50gfpCPIOFgHAK4v7s6Lyq/oCksT3m3uU4QP0K04sn1xal9PDwjusuREaP7RLNkD2JWefCNANwAeLP9SMnMagLL0/6vXTQLQoPoqDrUkUbI8uPWVf6fcqmqSJXlyHQW4KqNbauiVM60xqJ0Cfx/idLxb9g4zHWhlihzn1oiygj64kdRRtJ3KkUZSYtY8ztdS6KuZ1HX26xzo18lFkR1CXU9bmdn9+X5Y60sAZgCdV8IS5jdPr4AAAAASUVORK5CYII="/>
+  <text id="Janki" class="cls-1" x="41.917" y="21.375">Janki</text>
+  <text id="Janki-2" data-name="Janki" class="cls-2" x="42.917" y="21.375">Janki</text>
+  <image id="Oil_mill" data-name="Oil mill" x="74" y="25" width="36" height="6" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAGCAYAAACrZDylAAAAX0lEQVQokWPABXR1NTiRpXR1Nf6DME4NuM35j84nKEasZeQ4iFhzYGIsIMblyzcYYYIgNkwSJk6uJTBAijlMlBqATR86TQrA6qCBBEywKEKPOmQalxghQKw5cDFdjf8A7JxDqIxR2IMAAAAASUVORK5CYII="/>
+  <image id="oil" x="79" y="22" width="3" height="4" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAAECAYAAABLLYUHAAAAP0lEQVQImQE0AMv/APv62gDz3pdJ/fvWAAD8+NsAzIgc//fvyBQB8slepvfzy1n+7iLWAv0D/QEUOiX2/gH991WlH123ucx1AAAAAElFTkSuQmCC"/>
+</svg>
